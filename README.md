@@ -64,3 +64,7 @@ Este projeto foi desenvolvido para o microcontrolador RP2040 utilizando a biblio
 5. **Verifique a UART:**
    - Utilize um software de terminal serial (como o **PuTTY** ou o **Tera Term**) para enviar números de 0 a 9 via UART.
    - O código irá simular a exibição desses números na matriz de LEDs (ou simplesmente imprimir no terminal).
+  
+
+  ##Link do wokwi: https://wokwi.com/projects/422468489507209217
+  ##Link do vídeo: https://drive.google.com/file/d/1WdaTblJoqrvjNyMi5qUWMwgz4mAPNvMB/view?usp=sharing
